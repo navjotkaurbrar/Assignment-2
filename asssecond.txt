@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+ <style>
+
+body{
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #4f2f90;
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Monospace', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #71a55a;
+}
+
+/* Yelling */
+
+strong {
+    font-family: fantasy;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #ff0000;
+}
+
+/* Sad/Happy */
+
+em {
+    font-style: italic;
+    font-size: 2rem;
+    color:#efc910;
+}
+
+</style>
+
+<h1>WANNA BE YOURS</h1>
+
+<p>I wanna be your vacuum cleaner
+    Breathing in your dust
+    I wanna be your Ford Cortina
+    I will never rust</p>
+
+<p><strong>I wanna be your vacuum cleaner
+    Breathing in your dust
+    I wanna be your Ford Cortina
+    I will never rust
+    If you like your coffee hot
+    Let me be your coffee pot
+    You call the shots, baber</strong></p>
+
+<p><em>Let me be your 'leccy meter
+    And I'll never run out
+    Let me be the portable heater
+    That you'll get cold without
+    I wanna be your setting lotion
+    Hold your hair in deep devotion</em></p>
+
+<p>YI wanna be your vacuum cleaner (Wanna be yours)
+    Breathing in your dust (Wanna be yours)
+    I wanna be your Ford Cortina (Wanna be yours)
+    I just wanna be yours (Wanna be yours)
+I</p>
+</body>
+
+</html>
